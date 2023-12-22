@@ -1,0 +1,35 @@
+{
+    "name": "flutter_dynamic_width_dropdown_button",
+    "short_name": "flutter_dynamic_width_dropdown_button",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Flutter's default DropdownButton is a versatile widget that is used widely in mobile development. However, it lacks certain behaviors that developers may desire, such as dynamically adjusting its width based on the length of the selected item's text—similar to a native HTML select element. To fill this gap, this repository presents a custom dropdown button that is designed to mimic this specific behavior and provide additional customization options.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
